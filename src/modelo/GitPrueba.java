@@ -16,7 +16,7 @@ public class GitPrueba {
     Socket nombre;
 
     public static void main(String[] args) {
-        System.out.println("Clientes ");
+        System.out.println("Clientes que son bienvenidos ");
 
     }
 
